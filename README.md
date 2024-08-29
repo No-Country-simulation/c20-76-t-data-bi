@@ -20,7 +20,7 @@ Los datos fueron extraidos  de la siguiente página:
 
 # Tecnologías usadas
 
-El proyecto hace uso de diversas tecnologías y herramientas para realizar un análisis exhaustivo de los siniestros viales. Algunas de las principales tecnologías utilizadas fueron:
+Algunas de las principales tecnologías utilizadas fueron:
 
 [![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue)](https://code.visualstudio.com/) 
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)](https://jupyter.org/)
@@ -39,7 +39,7 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErleyValeta)
 
-### Micaela Callahuanca**
+### Micaela Callahuanca
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/micaelacallahuanca)
 
