@@ -1,6 +1,6 @@
-# Data Apps
+# Data App
 
-![Portada](images/LogotipoTransparente.png)
+![Portada](images/portada.png)
 
 ## Introducción: 
 
