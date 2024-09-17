@@ -29,7 +29,7 @@ Algunas de las principales tecnologías utilizadas fueron:
 [![Seaborn](https://img.shields.io/badge/Library-Seaborn-yellow)](https://seaborn.pydata.org/)
 [![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)](https://github.com/)
 [![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
-[![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)]
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 
 
 ## Colaboradores:
