@@ -1,6 +1,6 @@
 # Data App
 
-![Portada](images/portada.png)
+![Portada](images/portada.png.png)
 
 ## Introducción: 
 
