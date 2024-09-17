@@ -29,6 +29,7 @@ Algunas de las principales tecnologías utilizadas fueron:
 [![Seaborn](https://img.shields.io/badge/Library-Seaborn-yellow)](https://seaborn.pydata.org/)
 [![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)](https://github.com/)
 [![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
+[![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)]
 
 
 ## Colaboradores:
@@ -41,7 +42,7 @@ Algunas de las principales tecnologías utilizadas fueron:
 
 ### Micaela Callahuanca
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/micaelacallahuanca)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micaelacallahuanca/)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MicaelaCallahuanca)
 
