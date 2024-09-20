@@ -1,21 +1,14 @@
 # Data Apps
 
 ![Portada](images/portada.jpg)
->>>>>>> Erley-Valeta
 
 ## Introducción: 
 
 Somos una empresa dedicada al análisis de mercado y la creación de modelos predictivos para la toma de decisiones en nuevos proyectos. Con el crecimiento exponencial de las aplicaciones móviles, la Google Play Store se ha convertido en un campo vasto y competitivo, donde destacar y asegurar el éxito de una aplicación es cada vez más desafiante. En este proyecto, nos enfocamos en proporcionar a nuestros clientes información valiosa y modelos predictivos que les permitan identificar las características más rentables y exitosas para sus aplicaciones.
 
-<<<<<<< HEAD
-## Contexto: Analisis Google Play Store
-
-Google Play Store alberga millones de aplicaciones, lo que hace que decidir el tipo de aplicación y las características más rentables sea un desafío complejo. En un mercado tan saturado, comprender qué hace que una aplicación destaque en términos de calificación y descargas es crucial para desarrolladores y empresas que buscan maximizar su retorno de inversión. Este proyecto se enfoca en analizar este vasto ecosistema para ayudar en la toma de decisiones informadas sobre el desarrollo y lanzamiento de aplicaciones móviles.
-=======
 ## Contexto: La Google 
 
 Play Store alberga millones de aplicaciones, lo que hace que decidir el tipo de aplicación y las características más rentables sea un desafío complejo. En un mercado tan saturado, comprender qué hace que una aplicación destaque en términos de calificación y descargas es crucial para desarrolladores y empresas que buscan maximizar su retorno de inversión. Este proyecto se enfoca en analizar este vasto ecosistema para ayudar en la toma de decisiones informadas sobre el desarrollo y lanzamiento de aplicaciones móviles.
->>>>>>> Erley-Valeta
 
 ## Descripción del Proyecto: 
 
@@ -36,16 +29,6 @@ Algunas de las principales tecnologías utilizadas fueron:
 [![Seaborn](https://img.shields.io/badge/Library-Seaborn-yellow)](https://seaborn.pydata.org/)
 [![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)](https://github.com/)
 [![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
-<<<<<<< HEAD
-![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
-
-## Colaboradores:
-
-| Erley Valeta | Micaela Callahuanca | Daniel Pequeño | Pao Cedano | Abner Galan |
-|--------------|---------------------|----------------|------------|-------------|
-| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erley-valeta-devops/) | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micaelacallahuanca/) | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-peque%C3%B1o/) | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolacedanouseche/) | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-david-galan-roldan/) |
-| [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErleyValeta) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MicaelaCallahuanca) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danpeq) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pao067) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbnerGalRol) |
-=======
 
 
 ## Colaboradores:
@@ -79,4 +62,9 @@ Algunas de las principales tecnologías utilizadas fueron:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-david-galan-roldan/)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbnerGalRol)
->>>>>>> Erley-Valeta
+
+### Facundo Blanco
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-blanco-a0089024a/)
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FacuSB)
